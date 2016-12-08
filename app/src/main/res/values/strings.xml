@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Depression Test</string>
+    <string name="form_description">How often a week do you...</string>
+    <string name="zero_point_response">Not at all</string>
+    <string name="one_point_response">Once and a while</string>
+    <string name="two_point_response">Often</string>
+    <string name="three_point_response">Always</string>
+    <string name="submit_button">Submit</string>
+    <string name="question_one_prompt">Hello</string>
+    <string name="question_one">Have little interest or pleasure in doing things?</string>
+    <string name="question_two">feel down, depressed, or hopeless?</string>
+    <string name="question_three">Have trouble falling or staying asleep, or sleeping too much?</string>
+    <string name="question_four">Feel tired or have little energy?</string>
+    <string name="question_five">Have a poor appetite or overeat?</string>
+    <string name="question_six">Feel bad about yourself, or that you are a failure, or have let yourself or your family down?</string>
+    <string name="question_seven">Have trouble concentrating on things such as reading or watching TV?</string>
+    <string name="question_eight">Move or speak noticeably slower or faster than usual?</string>
+    <string name="question_nine">Have thoughts that you would be better off dead or hurt in some way?</string>
+    <string name="feedback_healthy">You are healthy!</string>
+    <string name="feedback_mild">You are likely experiencing mild depression, monitor if symptoms get worse.  Do not be alarmed - this should be temporary!</string>
+    <string name="feedback_moderate">You are likely experiencing moderate depression.  It would be worth while to start a discussion about this with your doctor.</string>
+    <string name="feedback_moderately_severe">You are likely experiencing moderately severe depression, you should seek help from a doctor.</string>
+    <string name="feedback_severe">You are likely experiencing severe depression - you should seek help immediately.</string>
+</resources>

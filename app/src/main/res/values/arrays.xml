@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="response_list">
+        <item>@string/zero_point_response</item>
+        <item>@string/one_point_response</item>
+        <item>@string/two_point_response</item>
+        <item>@string/three_point_response</item>
+    </string-array>
+</resources>
